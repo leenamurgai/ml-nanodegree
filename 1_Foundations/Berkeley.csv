@@ -1,0 +1,27 @@
+Dept,Admit,Gender,Freq,Total Applicants,Total Male Applicants,Total Female Applicants,Accepted Male,Accepted Female,Probability of admission given gender
+A,Admitted,Male,512,,,,,,62%
+A,Rejected,Male,313,,,,,,
+A,Admitted,Female,89,,88%,,,,
+A,Rejected,Female,19,933,825,108,512,89,82%
+B,Admitted,Male,353,,,,,,63%
+B,Rejected,Male,207,,,,,,
+B,Admitted,Female,17,,96%,,,,
+B,Rejected,Female,8,585,560,25,353,17,68%
+C,Admitted,Male,120,,,,,,37%
+C,Rejected,Male,205,,,,,,
+C,Admitted,Female,202,,35%,,,,
+C,Rejected,Female,391,918,325,593,120,202,34%
+D,Admitted,Male,138,,,,,,33%
+D,Rejected,Male,279,,,,,,
+D,Admitted,Female,131,,53%,,,,
+D,Rejected,Female,244,792,417,375,138,131,35%
+E,Admitted,Male,53,,,,,,28%
+E,Rejected,Male,138,,,,,,
+E,Admitted,Female,94,,33%,,,,
+E,Rejected,Female,299,584,191,393,53,94,24%
+F,Admitted,Male,22,,,,,,6%
+F,Rejected,Male,351,,,,,,
+F,Admitted,Female,24,,52%,,,,
+F,Rejected,Female,317,714,373,341,22,24,7%
+,,,4526,,2693.687274,1835,1198,557,
+,,,,,,,44%,30%,
