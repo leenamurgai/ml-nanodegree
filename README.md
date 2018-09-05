@@ -1,6 +1,8 @@
 # ml-nanodegree
 ## [Machine Learning Udacity Nanodegree program](https://classroom.udacity.com/nanodegrees/nd009/syllabus/core-curriculum)
 
+[Course Notes](https://github.com/leenamurgai/ml-nanodegree/blob/master/ml-nanodegree.pdf)
+
 1. Model Evaluation and Validation
    * **Project 1:** Predict Boston House Prices
 2. Supervised Learning
